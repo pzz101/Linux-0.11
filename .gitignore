@@ -2,4 +2,5 @@ Thumbs.db
 *.log
 *.bak
 .DS_Store
-
+.vscode/.cache
+hdc-0.11.img

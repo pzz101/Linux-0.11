@@ -1,0 +1,13 @@
+{
+    "clangd.arguments": [
+        "--background-index=true",
+        "--compile-commands-dir=${workspaceFolder}/.vscode",
+        "--pch-storage=memory",
+        "--enable-config=true",
+        "--pretty",
+        "--clang-tidy",
+        "--query-driver=clang++"
+    ],
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "C_Cpp.autocomplete": "disabled"
+}
